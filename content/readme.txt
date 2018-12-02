@@ -8,4 +8,4 @@ Nel kit ci sono diversi esempi per creare contenuti. Operativamente è necessari
 
 
 A COSA SERVE
-Il kit offre regole e strumenti operativi per creare e revisionare i contenuti di un sito o di un servizio digitale. L’esempio e i vari strumenti spiegano nella pratica come realizzare contenuti e come organizzarne e gestirne la creazione e la gestione.
+Il kit offre regole e strumenti operativi per creare e revisionare i contenuti di un sito o di un servizio digitale. L’esempio e i vari strumenti spiegano nella pratica come realizzare contenuti e come organizzarne e gestirne la creazione
