@@ -1,0 +1,14 @@
+﻿METATAG: dato all’interno di tag HTML che descrive sinteticamente il contenuto del sito. L’utilizzo è consigliato ai fini del posizionamento nei motori di ricerca
+
+
+ 
+
+
+ 
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="keywords" content=" keyword1, keyword2, keyword3, keyword4..." />
+    <meta name="keywords" content=" keyword1, keyword2, keyword3, keyword4..." />
+    <meta name="keywords" content=" keyword1, keyword2, keyword3, keyword4..." />
+    <meta name="keywords" content=" keyword1, keyword2, keyword3, keyword4..." />
+    <meta name="keywords" content=" keyword1, keyword2, keyword3, keyword4..." />
